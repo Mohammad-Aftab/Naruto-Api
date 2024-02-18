@@ -1,46 +1,46 @@
 [
-	{
-		"name": "Naruto Uzumaki",
-		"image": "https://static.wikia.nocookie.net/naruto/images/d/d6/Naruto_Part_I.png"
-	},
-	{
-		"name": "Sasuke Uchiha",
-		"image": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png"
-	},
-	{
-		"name": "Madara Uchiha",
-		"image": "https://static.wikia.nocookie.net/naruto/images/f/fd/Madara.png"
-	},
-	{
-		"name": "Kakashi Hatake",
-		"image": "https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png"
-	},
-	{
-		"name": "Orochimaru",
-		"image": "https://static.wikia.nocookie.net/naruto/images/1/14/Orochimaru_Infobox.png"
-	},
-	{
-		"name": "Obito Uchiha",
-		"image": "https://static.wikia.nocookie.net/naruto/images/4/4a/Obito_Uchiha.png"
-	},
-	{
-		"name": "Gaara",
-		"image": "https://static.wikia.nocookie.net/naruto/images/2/20/Gaara_in_Part_I.png"
-	},
-	{
-		"name": "Kabuto Yakushi",
-		"image": "https://static.wikia.nocookie.net/naruto/images/c/c9/Kabuto_Part_1.png"
-	},
-	{
-		"name": "Jiraiya",
-		"image": "https://static.wikia.nocookie.net/naruto/images/2/21/Profile_Jiraiya.png"
-	},
-	{
-		"name": "Yamato",
-		"image": "https://static.wikia.nocookie.net/naruto/images/f/f7/Yamato_newshot.png"
-	},
-	{
-		"name": "Might Guy",
-		"image": "https://static.wikia.nocookie.net/naruto/images/3/31/Might_Guy.png"
-	}
+   {
+      "name":"Naruto Uzumaki",
+      "image":"https://static.wikia.nocookie.net/naruto/images/d/d6/Naruto_Part_I.png"
+   },
+   {
+      "name":"Sasuke Uchiha",
+      "image":"https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png"
+   },
+   {
+      "name":"Madara Uchiha",
+      "image":"https://static.wikia.nocookie.net/naruto/images/f/fd/Madara.png"
+   },
+   {
+      "name":"Kakashi Hatake",
+      "image":"https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png"
+   },
+   {
+      "name":"Orochimaru",
+      "image":"https://static.wikia.nocookie.net/naruto/images/1/14/Orochimaru_Infobox.png"
+   },
+   {
+      "name":"Obito Uchiha",
+      "image":"https://static.wikia.nocookie.net/naruto/images/4/4a/Obito_Uchiha.png"
+   },
+   {
+      "name":"Gaara",
+      "image":"https://static.wikia.nocookie.net/naruto/images/2/20/Gaara_in_Part_I.png"
+   },
+   {
+      "name":"Kabuto Yakushi",
+      "image":"https://static.wikia.nocookie.net/naruto/images/c/c9/Kabuto_Part_1.png"
+   },
+   {
+      "name":"Jiraiya",
+      "image":"https://static.wikia.nocookie.net/naruto/images/2/21/Profile_Jiraiya.png"
+   },
+   {
+      "name":"Yamato",
+      "image":"https://static.wikia.nocookie.net/naruto/images/f/f7/Yamato_newshot.png"
+   },
+   {
+      "name":"Might Guy",
+      "image":"https://static.wikia.nocookie.net/naruto/images/3/31/Might_Guy.png"
+   }
 ]
